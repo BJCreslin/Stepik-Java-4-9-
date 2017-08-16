@@ -1,4 +1,4 @@
-public class Solution {
+
 
     // implement UntrustworthyMailWorker, Spy, Inspector, Thief, StolenPackageException, IllegalPackageException as public static classes here
 
@@ -175,4 +175,4 @@ public class Solution {
             super("IllegalPackageException!");
         }
     }
-}
+
